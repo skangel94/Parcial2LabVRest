@@ -11,11 +11,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a0ba8e2-78ec-4b17-b1a3-5fc127503b48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/rest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/model/User.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/service/IntegrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/service/IntegrationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/service/integration/IntegrationComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/src/main/java/com/utn/rest/service/integration/IntegrationComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/projections/GetCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/IntegrationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/IntegrationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/integration/IntegrationComponent$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/integration/IntegrationComponent$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/integration/IntegrationComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/RestTemplate/target/classes/com/utn/rest/service/integration/IntegrationComponent.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ParcialLABV" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Swagger" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -69,6 +79,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntegrationComponentTest.testIntegrationComponent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.utn.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.utn.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.utn.rest.IntegrationComponentTest" />
+      <option name="METHOD_NAME" value="testIntegrationComponent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RestApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="rest" />
       <extension name="coverage">
@@ -87,6 +113,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RestApplication" />
+        <item itemvalue="JUnit.IntegrationComponentTest.testIntegrationComponent" />
         <item itemvalue="JUnit.RestApplicationTests" />
       </list>
     </recent_temporary>
@@ -122,26 +149,26 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593032874551">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593034283263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593032874551" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1593020402078">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593034283263" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593037120684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593020402078" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1593020402078">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037120684" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593037120684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593020402078" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1593020402078">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037120684" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593037120684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593020402078" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1593020402078">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037120684" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593037120684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593020402078" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593037120684" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1593020402079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,8 +193,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593011859614" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593035947619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593035947619" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rest$IntegrationComponentTest_testIntegrationComponent.ic" NAME="IntegrationComponentTest.testIntegrationComponent Coverage Results" MODIFIED="1593037078643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.utn.rest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/rest$RestApplicationTests.ic" NAME="RestApplicationTests Coverage Results" MODIFIED="1593020084405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.utn.rest.*</FILTER>
     </SUITE>
